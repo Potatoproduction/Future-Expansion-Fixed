@@ -192,5 +192,27 @@
 			"Aircraft Carrier",
 			"Land Carrier"
 		]
+	},
+	{
+		"name": "Barbarian Strength", // Barbarians Land
+		"uniques": [
+			"No movement cost to pillage",
+			"[+15]% Strength when stacked with [Civilian]"
+		],
+	},
+	{
+		"name": "Seek and Capture", // Barbarians Scout
+		"uniques": [
+			"May capture killed [Military] units <with [50]% chance>",
+			"Can upgrade to [Marine]"
+		],
+	},
+	{
+		"name": "Explorer", // Ruins effect
+		"uniques": [
+			"[+15]% Strength <when defending>", 
+			"[+1] Sight"
+		]
 	}
+
 ]
