@@ -149,13 +149,6 @@
 		"uniques": ["Free [Spearman] appears", "Only available <after turn number [20]> <before turn number [150]>"],
 		"color": "#20afe8"
 	},
-	{
-		"name": "levied wayfarer",
-		"notification": "A [Wayfarer] has joined us!",
-		"uniques": ["Free [Wayfarer] appears", "Only available <after turn number [90]>"],
-		"color": "#20afe8"
-	},
-	
 	// Maps
 	{
 		"name": "reveal nearby Bonus resource",
