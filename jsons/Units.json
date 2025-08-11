@@ -1597,5 +1597,24 @@
 			"Unbuildable",
 			"Will not be displayed in Civilopedia"
 		]
+	},
+	{
+		"name": "Suicider",
+		"unitType": "Armored",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 32,
+		"rangedStrength": 32,
+		"range": 1,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"uniques": [
+			"[+400]% Strength <vs cities> <when attacking>",
+			"Can only attack [City] units",
+			"Self-destructs when attacking",
+			"Earn [50]% of the damage done to [City] units as [Gold]"
+		],
+		"attackSound": "shot"
 	}
+	
 ]
